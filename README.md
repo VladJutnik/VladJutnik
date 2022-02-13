@@ -20,7 +20,7 @@
 2. [Работа с laravel](https://github.com/VladJutnik/laravel-test2). Просто пример того как я работал с формой и БД.
 
 ## Проекты на Node
-1. [Проект на NODE.JS с использование Mongo.db и шаблонизатора Handlebars, а так же APi-telegram](https://github.com/VladJutnik/js-after-before). Пример в описании.
+1. [Проект на NODE.JS с использование Mongo.db и шаблонизатора Handlebars, а так же APi-telegram](https://github.com/VladJutnik/node.js-api-telegram). Пример в описании.
 
 ## Работа с JS
 1. [Api на js проверка погоды](https://github.com/VladJutnik/weather-forecast). Определения погоды через api по Вашему месту положению или городу. Пример в описании.
@@ -28,6 +28,7 @@
 
 ## Работа с PHP
 1. [Telegram api на php](https://github.com/VladJutnik/php-telegram-lesson/blob/master/telegram.php). Просто пример того как я разбирался с отправкой формы в чат телеграмма для админа.
+2. [MVC на php](https://github.com/VladJutnik/my-mvc). Попытка разработать свой mvc фреймфорк(.
 
 ## Примеры которые можно посмотреть прям тут
 1. [Telegram api на php](https://github.com/VladJutnik/php-telegram-lesson/blob/master/telegram.php). Просто пример того как я разбирался с отправкой формы в чат телеграмма для админа.

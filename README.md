@@ -6,28 +6,26 @@
 3. [Проекты на Node.js](#Проекты-на-Node)
 4. [Работа с JS](#Работа-с-JS)
 5. [Работа с PHP](#Работа-с-PHP)
-6. [Примеры которые можно посмотреть прям тут](#Примеры-которые-можно-посмотреть-прям-тут)
+6. [Прочие](#Прочие)
+7. [Примеры которые можно посмотреть прям тут](#Примеры-которые-можно-посмотреть-прям-тут)
 
 ## Проекты на Yii2
 1. [Первые шаги в работе с yii2](https://github.com/VladJutnik/example-yii2). Просто пример того как я работал с crud в yii2.
 2. [Полностью загруженный проект на yii2](https://github.com/VladJutnik/custom-yii2). Описание проекта и что в нем как можно почитать в readme.
 3. [Проект на yii2, при желании можно развернуть себе](https://github.com/VladJutnik/my-project-yii). Описание проекта и что в нем как можно почитать в readme. Если Вы хотите можете склонировать себе проект, по инструкции, и использовать его.
-
 ## Проекты на Laravel
 1. [Первые шаги в работе с laravel](https://github.com/VladJutnik/example-app-laravel). Просто пример того как я работал с документацией.
 2. [Работа с laravel](https://github.com/VladJutnik/laravel-test2). Просто пример того как я работал с формой и БД.
-
 ## Проекты на Node
 1. [Проект на NODE.JS с использование Mongo.db и шаблонизатора Handlebars, а так же APi-telegram](https://github.com/VladJutnik/node.js-api-telegram). Пример в описании.
-
 ## Работа с JS
 1. [Api на js проверка погоды](https://github.com/VladJutnik/weather-forecast). Определения погоды через api по Вашему месту положению или городу. Пример в описании.
 2. [Проект на JS до/после для фото](https://github.com/VladJutnik/js-after-before). Пример в описании.
-
 ## Работа с PHP
 1. [Telegram api на php](https://github.com/VladJutnik/php-telegram-lesson/blob/master/telegram.php). Просто пример того как я разбирался с отправкой формы в чат телеграмма для админа.
 2. [MVC на php](https://github.com/VladJutnik/my-mvc). Попытка разработать свой mvc фреймфорк(.
-
+## Прочие
+1. [Загрузка через csv файл](https://github.com/VladJutnik/uploading-via-csv/blob/main/loading.php). Пример загрузки данных в бд с помощью csv файла, класс создан в yii2.
 ## Примеры которые можно посмотреть прям тут
 1. [Telegram api на php](https://github.com/VladJutnik/php-telegram-lesson/blob/master/telegram.php). Просто пример того как я разбирался с отправкой формы в чат телеграмма для админа.
 2. [Эффект до/после для фото](https://github.com/VladJutnik/js-after-before).

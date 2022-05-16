@@ -10,9 +10,12 @@
 7. [Примеры которые можно посмотреть прям тут](#Примеры-которые-можно-посмотреть-прям-тут)
 
 ## Проекты на Yii2
+<details>
+<summary>Подробнее ...</summary>
 1. [Первые шаги в работе с yii2](https://github.com/VladJutnik/example-yii2). Просто пример того как я работал с crud в yii2.
 2. [Полностью загруженный проект на yii2](https://github.com/VladJutnik/custom-yii2). Описание проекта и что в нем как можно почитать в readme.
 3. [Проект на yii2, при желании можно развернуть себе](https://github.com/VladJutnik/my-project-yii). Описание проекта и что в нем как можно почитать в readme. Если Вы хотите можете склонировать себе проект, по инструкции, и использовать его.
+</details>    
 ## Проекты на Laravel
 1. [Первые шаги в работе с laravel](https://github.com/VladJutnik/example-app-laravel). Просто пример того как я работал с документацией.
 2. [Работа с laravel](https://github.com/VladJutnik/laravel-test2). Просто пример того как я работал с формой и БД.

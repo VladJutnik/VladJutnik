@@ -38,9 +38,15 @@
 </details> 
 
 ## Примеры которые можно посмотреть прям тут
+
+<details>
+<summary style="color: #e53838; font-weight: bold;">Список репозиториев с описанием (просто нажмите для того чтобы развернуть):</summary>
+
 1. [Telegram api на php](https://github.com/VladJutnik/php-telegram-lesson/blob/master/telegram.php). Просто пример того как я разбирался с отправкой формы в чат телеграмма для админа.
 2. [Эффект до/после для фото](https://github.com/VladJutnik/js-after-before).
 3. [Работа с svg](https://github.com/VladJutnik/svg-graphics). Моя собственная карта созданая в Adobe Illustrator + пример затемнения области с помощью svg и path при наведении
+  
+</details> 
 
 ## Прочие
 
@@ -56,7 +62,7 @@
 <details>
 <summary style="color: #e53838; font-weight: bold;">Работа с PHP:</summary>
 
-<p align="center">Работа с PHP/p>
+<p align="center">Работа с PHP</p>
 
 1. [Telegram api на php](https://github.com/VladJutnik/php-telegram-lesson/blob/master/telegram.php). Просто пример того как я разбирался с отправкой формы в чат телеграмма для админа.
 2. [MVC на php](https://github.com/VladJutnik/my-mvc). Попытка разработать свой mvc фреймфорк(.
@@ -66,7 +72,7 @@
 <details>
 <summary style="color: #e53838; font-weight: bold;">Работа с JS:</summary>
 
-<p align="center">Работа с JS/p>
+<p align="center">Работа с JS</p>
 
 1. [Api на js проверка погоды](https://github.com/VladJutnik/weather-forecast). Определения погоды через api по Вашему месту положению или городу. Пример в описании.
 2. [Проект на JS до/после для фото](https://github.com/VladJutnik/js-after-before). Пример в описании.

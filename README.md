@@ -46,6 +46,7 @@
 2. [Работа с svg](https://github.com/VladJutnik/svg-graphics). Моя собственная карта созданая в Adobe Illustrator + пример затемнения области с помощью svg и path при наведении
 3. [Включить выключить лампочку](https://github.com/VladJutnik/light_bulb). 
 4. [Логотип](https://github.com/VladJutnik/logo_example). 
+5. [Разбирался с анимацией](https://vladjutnik.github.io/animated-background/). 
   
 </details> 
 

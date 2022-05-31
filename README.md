@@ -47,6 +47,7 @@
 3. [Включить выключить лампочку](https://github.com/VladJutnik/light_bulb). 
 4. [Логотип](https://github.com/VladJutnik/logo_example). 
 5. [Разбирался с анимацией](https://vladjutnik.github.io/animated-background/). 
+6. [Разбирался с анимацией 2](https://vladjutnik.github.io/animated-snow/). 
   
 </details> 
 

@@ -49,6 +49,7 @@
 5. [Разбирался с анимацией](https://vladjutnik.github.io/animated-background/). 
 6. [Разбирался с анимацией 2](https://vladjutnik.github.io/animated-snow/). 
 7. [Разбирался с анимацией 3](https://vladjutnik.github.io/svg-animate/). 
+8. [Разбирался с анимацией 4](https://vladjutnik.github.io/smiley-animation/). 
   
 </details> 
 

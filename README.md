@@ -15,6 +15,7 @@
 2. [Полностью загруженный проект на yii2](https://github.com/VladJutnik/custom-yii2). Описание проекта и что в нем как можно почитать в readme.
 3. [Проект на yii2, при желании можно развернуть себе](https://github.com/VladJutnik/my-project-yii). Описание проекта и что в нем как можно почитать в readme. Если Вы хотите можете склонировать себе проект, по инструкции, и использовать его.
 4. [Пример работы с yii2](https://github.com/VladJutnik/collecting-information)
+5. [Модуль электронной очереди для yii2](https://github.com/VladJutnik/queue-modules-yii2) Описание проекта и что в нем как можно почитать в readme.
 </details>   
 
 ## Проекты на Laravel

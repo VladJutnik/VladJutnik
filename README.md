@@ -36,3 +36,4 @@
   
 </details> 
 
+[Полезные знания](https://github.com/VladJutnik/useful/blob/main/README.md). Тут собраны полезные замечания примеры, с которыеми встечался в своей работе
